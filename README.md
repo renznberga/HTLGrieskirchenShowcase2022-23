@@ -1,11 +1,11 @@
 ﻿[![HTL-Grieskirchen](http://www.htl-grieskirchen.net/fileadmin/bilder/logo.png)](http://htl-grieskirchen.net)
-# Showcase 2020-21
+# Showcase 2022-23
 
 
 Click here to open the projects:
 
 ====================
-# [**List of projects**](https://AlfredDoppler.github.io/HTLGrieskirchenShowcase2020-21/)
+# [**List of projects**](https://AlfredDoppler.github.io/HTLGrieskirchenShowcase2022-23/)
 ====================
 
 
