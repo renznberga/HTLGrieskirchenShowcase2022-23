@@ -104,11 +104,11 @@
     "status": "1"
   },
   {
-    "title": "Fire & Shadow",
-    "folder": "Fire_Shadow",
-    "author": "Anna Praher",
+     "title": "Ballic",
+    "folder": "Ballic_webgl",
+    "author": "Michel Tischler",
     "year": "2022_WS",
-    "info": "At least it looks good",
+    "info": "Gemoetry dash with endless levels",
     "status": "1"
   }
 ]
