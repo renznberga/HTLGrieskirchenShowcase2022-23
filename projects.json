@@ -6,6 +6,14 @@
         "year": "folder name of the year",
         "info": "info about your project",
         "status": "0"
-  }
+  },
+  {
+    "title": "Spedrun",
+         "folder": "ChenK",
+         "author": "Kevin Chen",
+         "year": "2022",
+         "info": "",
+         "status": "0"
+   }
  
 ]
