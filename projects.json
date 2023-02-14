@@ -39,4 +39,12 @@
         "info": "This is an unfinished version of the game. More features are added in the future.",
         "status": "0"
   }
+   ,{
+   "title": "Super Max Bros",
+        "folder": "empty",
+        "author": "Emil Kinzl",
+        "year": "2022",
+        "info": "-",
+        "status": "0"
+  }
 ]
