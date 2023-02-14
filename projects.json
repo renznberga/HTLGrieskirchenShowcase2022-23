@@ -24,6 +24,14 @@
         "status": "0"
   },
   {
+        "title": "Hoops",
+        "folder": "WebGLHoops",
+        "author": "David Kogler",
+        "year": "2022_WS",
+        "info": "my project should work",
+        "status": "1"
+   }
+   ,{
    "title": "Slot machine",
         "folder": "Build_Slot_machine_14.02.2023",
         "author": "Jonas Voitl",
