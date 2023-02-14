@@ -62,4 +62,12 @@
         "info": "Long not finished - some bugs still exist and might be fixed in the future",
         "status": "0"
   }
+  ,{
+      "title": "MyGame1",
+           "folder": "MyGame1",
+           "author": "Benedikt Christian",
+           "year": "2022_WS",
+           "info": "-",
+           "status": "0"
+  }
 ]
