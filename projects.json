@@ -1,10 +1,10 @@
 [
   {
-   "title": "project title",
-        "folder": "name of the folder",
-        "author": "my name",
-        "year": "folder name of the year",
-        "info": "info about your project",
+   "title": "Doodle Jump Clone",
+        "folder": "BuildDoodle",
+        "author": "Matthias Kogler",
+        "year": "2022_WS",
+        "info": "Doodle Clone that makes fun to play",
         "status": "0"
   },
   {
