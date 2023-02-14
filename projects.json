@@ -22,6 +22,13 @@
         "year": "2022_WS",
         "info": "-",
         "status": "0"
+  },
+  {
+   "title": "Slot machine",
+        "folder": "Build_Slot_machine_14.02.2023",
+        "author": "Jonas Voitl",
+        "year": "2022_WS",
+        "info": "This is an unfinished version of the game. More features are added in the future.",
+        "status": "0"
   }
- 
 ]
