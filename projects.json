@@ -22,6 +22,14 @@
         "year": "2022_WS",
         "info": "-",
         "status": "0"
+  },
+  {
+        "title": "Hoops",
+        "folder": "WebGLHoops",
+        "author": "David Kogler",
+        "year": "2022_WS",
+        "info": "my project should work",
+        "status": "1"
   }
  
 ]
