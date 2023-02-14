@@ -14,6 +14,14 @@
          "year": "2022",
          "info": "",
          "status": "0"
-   }
+   },
+  {
+   "title": "Volleyball Rotation Simulator",
+        "folder": "VBRotationsWebGL",
+        "author": "Jakob Gschwendtner",
+        "year": "2022_WS",
+        "info": "-",
+        "status": "0"
+  }
  
 ]
