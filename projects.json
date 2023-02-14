@@ -1,89 +1,98 @@
 [
   {
-   "title": "Doodle Jump Clone",
-        "folder": "BuildDoodle",
-        "author": "Matthias Kogler",
-        "year": "2022_WS",
-        "info": "Doodle Clone that makes fun to play",
-        "status": "0"
+    "title": "Doodle Jump Clone",
+    "folder": "BuildDoodle",
+    "author": "Matthias Kogler",
+    "year": "2022_WS",
+    "info": "Doodle Clone that makes fun to play",
+    "status": "0"
   },
-  {  
-      "title": "Resistor Run",
-      "folder": "ResistorRun",
-      "author": "Paul Burgholzer",
-      "year": "2022_WS",
-      "info": "Dodge the professor's shots, once your lives are used up try your luck at solving resistances and keep playing.",
-      "status": "0"
+  {
+    "title": "Resistor Run",
+    "folder": "ResistorRun",
+    "author": "Paul Burgholzer",
+    "year": "2022_WS",
+    "info": "Dodge the professor's shots, once your lives are used up try your luck at solving resistances and keep playing.",
+    "status": "0"
+  },
+  {
+    "title": "HTL Dash",
+    "folder": "HTL-DASH",
+    "author": "Gabriel Kothbauer",
+    "year": "2022_WS",
+    "info": "Geometry dash scuffed",
+    "status": "1"
   },
   {
     "title": "Spedrun",
-         "folder": "ChenK",
-         "author": "Kevin Chen",
-         "year": "2022_WS",
-         "info": "",
-         "status": "0"
-   },
-    {
-    "title": "BreadBoard",
-         "folder": "BreadBoard",
-         "author": "Tobias Schiffelhumer",
-         "year": "2022_WS",
-         "info": "Build Circuits",
-         "status": "0"
-   },
-  {
-   "title": "Volleyball Rotation Simulator",
-        "folder": "VBRotationsWebGL",
-        "author": "Jakob Gschwendtner",
-        "year": "2022_WS",
-        "info": "-",
-        "status": "0"
+    "folder": "ChenK",
+    "author": "Kevin Chen",
+    "year": "2022_WS",
+    "info": "",
+    "status": "0"
   },
   {
-        "title": "Hoops",
-        "folder": "WebGLHoops",
-        "author": "David Kogler",
-        "year": "2022_WS",
-        "info": "my project should work",
-        "status": "1"
-   }
-   ,{
-   "title": "Slot machine",
-        "folder": "Build_Slot_machine_14.02.2023",
-        "author": "Jonas Voitl",
-        "year": "2022_WS",
-        "info": "This is an unfinished version of the game. More features are added in the future.",
-        "status": "0"
-  }
-   ,{
-   "title": "Super Max Bros",
-        "folder": "empty",
-        "author": "Emil Kinzl",
-        "year": "2022",
-        "info": "-",
-        "status": "0"
-  },{
-   "title": "MyGame",
-        "folder": "GutjahrT",
-        "author": "Tamino Gutjahr",
-        "year": "2022_WS",
-        "info": "-",
-        "status": "0"
-  }
-  ,{
-   "title": "Streetfighter Demo",
-        "folder": "StreetfighterClone",
-        "author": "Elias Ortner",
-        "year": "2022_WS",
-        "info": "Long not finished - some bugs still exist and might be fixed in the future",
-        "status": "0"
-  }
-  ,{
-      "title": "MyGame1",
-           "folder": "MyGame1",
-           "author": "Benedikt Christian",
-           "year": "2022_WS",
-           "info": "-",
-           "status": "0"
+    "title": "BreadBoard",
+    "folder": "BreadBoard",
+    "author": "Tobias Schiffelhumer",
+    "year": "2022_WS",
+    "info": "Build Circuits",
+    "status": "0"
+  },
+  {
+    "title": "Volleyball Rotation Simulator",
+    "folder": "VBRotationsWebGL",
+    "author": "Jakob Gschwendtner",
+    "year": "2022_WS",
+    "info": "-",
+    "status": "0"
+  },
+  {
+    "title": "Hoops",
+    "folder": "WebGLHoops",
+    "author": "David Kogler",
+    "year": "2022_WS",
+    "info": "my project should work",
+    "status": "1"
+  },
+  {
+    "title": "Slot machine",
+    "folder": "Build_Slot_machine_14.02.2023",
+    "author": "Jonas Voitl",
+    "year": "2022_WS",
+    "info": "This is an unfinished version of the game. More features are added in the future.",
+    "status": "0"
+  },
+  {
+    "title": "Super Max Bros",
+    "folder": "empty",
+    "author": "Emil Kinzl",
+    "year": "2022",
+    "info": "-",
+    "status": "0"
+  },
+  {
+    "title": "MyGame",
+    "folder": "GutjahrT",
+    "author": "Tamino Gutjahr",
+    "year": "2022_WS",
+    "info": "-",
+    "status": "0"
+  },
+  {
+    "title": "Streetfighter Demo",
+    "folder": "StreetfighterClone",
+    "author": "Elias Ortner",
+    "year": "2022_WS",
+    "info": "Long not finished - some bugs still exist and might be fixed in the future",
+    "status": "0"
+  },
+  {
+    "title": "MyGame1",
+    "folder": "MyGame1",
+    "author": "Benedikt Christian",
+    "year": "2022_WS",
+    "info": "-",
+    "status": "0"
   }
 ]
