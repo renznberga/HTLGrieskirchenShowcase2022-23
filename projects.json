@@ -15,6 +15,14 @@
          "info": "",
          "status": "0"
    },
+    {
+    "title": "BreadBoard",
+         "folder": "BreadBoard",
+         "author": "Tobias Schiffelhumer",
+         "year": "2022_WS",
+         "info": "Build Circuits",
+         "status": "0"
+   },
   {
    "title": "Volleyball Rotation Simulator",
         "folder": "VBRotationsWebGL",
