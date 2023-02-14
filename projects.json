@@ -17,7 +17,7 @@
   },
   {
     "title": "HTL Dash",
-    "folder": "HTL-DASH",
+    "folder": "HTL_DASH",
     "author": "Gabriel Kothbauer",
     "year": "2022_WS",
     "info": "Geometry dash scuffed",
@@ -109,6 +109,14 @@
     "author": "Anna Praher",
     "year": "2022_WS",
     "info": "At least it looks good",
+    "status": "1"
+  },
+  {
+     "title": "Ballic",
+    "folder": "Ballic_webgl",
+    "author": "Michel Tischler",
+    "year": "2022_WS",
+    "info": "Gemoetry dash with endless levels",
     "status": "1"
   }
 ]
