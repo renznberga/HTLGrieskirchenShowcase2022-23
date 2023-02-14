@@ -54,4 +54,12 @@
         "info": "-",
         "status": "0"
   }
+  ,{
+   "title": "Streetfighter Demo",
+        "folder": "StreetfighterClone",
+        "author": "Elias Ortner",
+        "year": "2022_WS",
+        "info": "Long not finished - some bugs still exist and might be fixed in the future",
+        "status": "0"
+  }
 ]
