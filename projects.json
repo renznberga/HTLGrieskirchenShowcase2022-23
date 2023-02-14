@@ -7,6 +7,14 @@
         "info": "Doodle Clone that makes fun to play",
         "status": "0"
   },
+  {  
+      "title": "Resistor Run",
+      "folder": "ResistorRun",
+      "author": "Paul Burgholzer",
+      "year": "2022_WS",
+      "info": "Dodge the professor's shots, once your lives are used up try your luck at solving resistances and keep playing.",
+      "status": "0"
+  },
   {
     "title": "Spedrun",
          "folder": "ChenK",
