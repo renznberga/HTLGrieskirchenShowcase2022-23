@@ -119,14 +119,6 @@
     "info": "Gemoetry dash with endless levels",
     "status": "1"
   },
-  {
-     "title": "Racer",
-    "folder": "Racer",
-    "author": "Michel Aigner",
-    "year": "2022_WS",
-    "info": "Racing game",
-    "status": "1"
-  },
   {     
     "title": "Enter the Dungeon",
     "folder": "EnterTheDungeon",
@@ -142,5 +134,13 @@
     "year": "2023_WS",
     "info": "Simpeler Test von RPG Mechanicken + custom localisationssystem",
     "status": "0"
+  },
+  {
+    "title": "Racer",
+    "folder": "Racer",
+    "author": "Michel Aigner",
+    "year": "2022_WS",
+    "info": "Racing game",
+    "status": "1"
   }
 ]
