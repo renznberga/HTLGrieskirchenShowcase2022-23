@@ -118,5 +118,13 @@
     "year": "2022_WS",
     "info": "Gemoetry dash with endless levels",
     "status": "1"
+  },
+  {
+    "title": "Jetpack_Game",
+    "folder": "Jetpack_Game",
+    "author": "Bastian Frühauf",
+    "year": "2022_WS",
+    "info": "Jetpack Joyride fake",
+    "status": "0"
   }
 ]
