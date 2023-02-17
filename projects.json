@@ -119,7 +119,38 @@
     "info": "Gemoetry dash with endless levels",
     "status": "1"
   },
+  {     
+    "title": "Enter the Dungeon",
+    "folder": "EnterTheDungeon",
+    "author": "Emilio Kamer",
+    "year": "2022_WS",
+    "info": "Enter the dungeon fake/Unfinished",
+    "status": "1"
+  },
   {
+    "title": "RPG Test Game",
+    "folder": "RPG Test Game",
+    "author": "Sebastian Fillip",
+    "year": "2023_WS",
+    "info": "Simpeler Test von RPG Mechanicken + custom localisationssystem",
+    "status": "0"
+  },
+  {
+    "title": "Racer",
+    "folder": "Racer",
+    "author": "Michel Aigner",
+    "year": "2022_WS",
+    "info": "Racing game",
+    "status": "1"
+  },
+  {"title": "Pacman",
+    "folder": "Pacman",
+    "author": "Michael Pramendorfer",
+    "year": "2022_WS",
+    "info": "-",
+    "status": "0"
+    },
+    {
     "title": "Jetpack_Game",
     "folder": "Jetpack_Game",
     "author": "Bastian Frühauf",
