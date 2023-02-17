@@ -102,5 +102,13 @@
     "year": "2022_WS",
     "info": "Daurert noch",
     "status": "1"
+  },
+  {
+    "title": "Pacman",
+    "folder": "Pacman",
+    "author": "Michael Pramendorfer",
+    "year": "2022_WS",
+    "info": "-",
+    "status": "0"
   }
 ]
