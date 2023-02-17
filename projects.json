@@ -126,5 +126,13 @@
     "year": "2022_WS",
     "info": "Enter the dungeon fake/Unfinished",
     "status": "1"
+  },
+  {
+    "title": "RPG Test Game",
+    "folder": "RPG Test Game",
+    "author": "Sebastian Fillip",
+    "year": "2023_WS",
+    "info": "Simpeler Test von RPG Mechanicken + custom localisationssystem",
+    "status": "0"
   }
 ]
