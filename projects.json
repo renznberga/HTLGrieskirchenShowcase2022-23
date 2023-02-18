@@ -8,6 +8,14 @@
     "status": "0"
   },
   {
+    "title": "LeberkasManiac",
+    "folder": "CodenameAlpha",
+    "author": "Jakob Anzengruber",
+    "year": "2022_WS",
+    "info": "Go to the grey cube npc and get the first quest.",
+    "status": "1"
+  },
+  {
     "title": "Resistor Run",
     "folder": "ResistorRun",
     "author": "Paul Burgholzer",
