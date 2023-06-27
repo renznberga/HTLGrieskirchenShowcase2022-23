@@ -174,4 +174,12 @@
     "info": "Spedrun",
     "status": "1"
     },
+    {
+      "title": "3DSchooterMyGame",
+      "folder": "3DSchooterMyGame",
+      "author": "Benedikt Christian",
+      "year": "2023_SS",
+      "info": "3D Schooter Game",
+      "status": 1
+      }
 ]
