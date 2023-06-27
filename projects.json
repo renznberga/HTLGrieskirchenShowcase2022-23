@@ -23,6 +23,14 @@
     "info": "Dodge the professor's shots, once your lives are used up try your luck at solving resistances and keep playing.",
     "status": "0"
   },
+    {
+    "title": "Catan",
+    "folder": "Catan",
+    "author": "Tobias Schiffelhumer",
+    "year": "2022_SS",
+    "info": "Catan, previously known as The Settlers of Catan or simply Settlers, is a multiplayer board game designed by Klaus Teuber. It was first published in 1995 in Germany by Franckh-Kosmos Verlag as Die Siedler von Catan.",
+    "status": "0"
+  },
   {
     "title": "HTL Dash",
     "folder": "HTL_DASH",
@@ -190,5 +198,5 @@
     "year": "2023_SS",
     "info": "-",
     "status": "0"
-    },
+    }
 ]
