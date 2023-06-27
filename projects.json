@@ -165,13 +165,13 @@
     "year": "2022_WS",
     "info": "Jetpack Joyride fake",
     "status": "0"
-  }, 
-  {
+    }, 
+    {
     "title": "Spedrun",
     "folder": "Spedrun",
     "author": "Kevin Chen",
     "year": "2023_SS",
     "info": "Spedrun",
     "status": "1"
-  },
+    },
 ]
