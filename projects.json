@@ -174,12 +174,20 @@
     "info": "Spedrun",
     "status": "1"
     },
-    {
-      "title": "3DSchooterMyGame",
-      "folder": "3DSchooterMyGame",
-      "author": "Benedikt Christian",
-      "year": "2023_SS",
-      "info": "3D Schooter Game",
-      "status": 1
-      }
+    {  
+    "title": "Second2DGame",
+    "folder": "Second2DGame",
+    "author": "Tamino Gutjahr",
+    "year": "2023_SS",
+    "info": "-",
+    "status": "0"
+    },
+    {  
+    "title": "3DSchooterMyGame",
+    "folder": "3DSchooterMyGame",
+    "author": "Tamino Gutjahr",
+    "year": "2023_SS",
+    "info": "-",
+    "status": "0"
+    },
 ]
